@@ -4,6 +4,10 @@ Computer-principle-experiment
 ## final report :Taxi billing system design
 Simulate the functions of the taxi system, in addition to the basic starting price, mileage calculation, fare display; And start music, cost clearing, stop, DC motor speed adjustable, driving direction display.
 
+you can watch the video from here :
+
+[youtube-video](https://youtu.be/MMm3MmOuBCk)
+
 <img src="https://github.com/yangtiming/Computer-principle-experiment/blob/master/imgs/final%20report.png" width="500px">
 
 
